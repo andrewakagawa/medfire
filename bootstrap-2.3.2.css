@@ -6037,11 +6037,6 @@ a.badge:focus {
   left: 100%;
 }
 
-.carousel-control.right {
-  right: 15px;
-  left: auto;
-}
-
 .carousel-control:hover,
 .carousel-control:focus {
   color: #ffffff;
