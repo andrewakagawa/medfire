@@ -285,7 +285,10 @@ a:focus {
   margin-left: 20px;
 }
 
-.container,
+.container {
+  width:100%;
+}
+
 .navbar-static-top .container,
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
