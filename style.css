@@ -33,6 +33,11 @@
         font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
         text-align: center;
       }
+      
+      .navbar{
+      	min-height: 40px;
+      }
+      
 	.container{
 	width: 1170px;
 	}
