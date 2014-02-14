@@ -1,8 +1,9 @@
-      /* Large desktop */
-      @media (min-width: 980px) { 
+
         body {
          padding-top: 0px;
-         min-width: 980px;
+         width: 1400px;
+         padding-bottom: 40px;
+	 font-family: 'Open Sans', Helvetica, Arial, sans-serif;
         }
        .linediv-l {
          border-right: 1px white solid;
@@ -11,25 +12,10 @@
          border-left: 1px white solid;
          padding-left: 5px;
        }
-      }
 
-      /* Landscape phones and down */
-      @media (max-width: 480px) { 
-       .copy {
-         padding: 2.5% 10%;
-       }
-       .linediv-l {
-         border-bottom: 1px white solid;
-       }
-       .linediv-r {
-         border-top: 1px white solid;
-       }
-      }      
-	body {
-	min-width:980px;
-        padding-bottom: 40px;
-	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-      }
+
+   
+
 
       .heading, .subheading {
         font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
