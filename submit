@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <title>MedFire</title>
+    <!-- Bootstrap -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fjquery.js"></script>
+	<script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" rel="stylesheet" type="text/css">
+
+  	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+  	<link rel="stylesheet" href="style.css">
+    	<link rel="stylesheet" href="carousel.css">
+   	<link rel="stylesheet" href="bootstrap.min.css" >   
+  	<link rel="stylesheet" href="bootstrap-2.3.2.css">
+
+  </head>
+  <body>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <div class="container">
+
+<div class="navbar-wrapper">
+      <div class="container">
+
+<div class="navbar navbar-inverse">
+	<div class="navbar-inner">
+            <ul class="nav">
+		<li>
+          	<a href="index.html"><b>MedFire</b></a>
+        	</li>
+        	<li>
+          	<a href="about.html">About</a>
+        	</li>
+	   </ul>
+	</div>
+      </div>
+
+<div class="page">
+
+  <h2>Submit Your Project</h2>
+    <i>Get started in 4 simple steps:</i>
+      <div class="row-fluid section1">
+        <div class="span12">
+          <ol>
+          <li>
+            Tell us what you are doing, how much you need and set a deadline to reach this goal. Be conservative and just set the goal for the bare minimum amount you need to send the rewards and get to the next inflection point.
+          </li>
+          <li>
+            Define who your project helps most and what they will get for backing you. In healthcare, there are generally four types of people that want to help – patients, doctors, hospitals/medical centers, and pharmaceutical/insurance companies.
+          </li>
+          <li>
+            If your project is selected, our professional video-making crew will help you make an engaging video that tells your own unique story. We really believe that the better your video and story, the more likely your project will reach your funding goal.
+          </li>
+          <li>
+            Launch your campaign on Medfire and let all the people in your network know about it via emails and other social media outlets. We will also help you reach out to people in our network so you can get more visibility.
+          </li>
+        </div>
+      </div>
+      <div align="center" class="btn-lg btn-info">Ready? Let’s Get Started!</div>
+</div>
+      </div>
+      <div class="row-fluid footer">
+        <div class="span12">
+          <p>Copyright © 2014 MedFire</p>
+        </div>
+      </div>
+    </div>
+  
+
+</body></html>
